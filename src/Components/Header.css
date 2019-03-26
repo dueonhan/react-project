@@ -1,0 +1,43 @@
+.Header_Main{
+    width: 1280px;
+    height: 60px;
+    margin: 0 auto;
+    display: hidden;
+    font-size: 20px;
+    color : gray;
+    border-bottom: 1px solid gray;
+    clear: both;
+}
+
+.left-section{
+    width: 69%;
+    float: left;
+}
+
+.left-section p {
+    display: inline-block;
+    padding-left: 20px;
+}
+
+.right-section{
+    width: 29%;
+    float: left;
+}
+
+.right-section li{
+    list-style: none;
+    display: inline;
+    border-left: 1px solid #c0c0c0;
+    padding : 0 10px;
+    float: left;
+    padding-right: 20px;
+}
+
+li:first-child{
+    border-left: none;
+}
+
+a{
+    color: grey;
+    text-decoration: none;
+}

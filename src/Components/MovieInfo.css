@@ -1,0 +1,22 @@
+.Movie_Container{
+    position: relative;
+    border: 1px solid #ccc;
+    width: 22%;
+    display: inline-block;
+    float:left;
+    padding: 10px;
+    margin-left: 10px;
+}
+
+
+.Movie_Container .Movie_img img {
+    margin : 0 auto;
+}
+
+
+
+
+
+
+
+
